@@ -1,4 +1,4 @@
-const API_BASE_URL = "http://localhost:8080"; // Replace with your backend URL
+const API_BASE_URL = "http://3.84.221.249:8080"; // Replace with your backend URL
 
 // Helper function to handle API calls
 async function apiCall(endpoint, method = "GET", body = null) {
